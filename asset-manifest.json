@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ilhamdwi-react/static/css/main.3c9927ec.css",
-    "main.js": "/ilhamdwi-react/static/js/main.4da02ac4.js",
+    "main.js": "/ilhamdwi-react/static/js/main.7b2578bc.js",
     "static/js/453.fc922487.chunk.js": "/ilhamdwi-react/static/js/453.fc922487.chunk.js",
     "static/media/img-hero2.jpg": "/ilhamdwi-react/static/media/img-hero2.7a396087717d6aac698a.jpg",
     "static/media/img5.jpg": "/ilhamdwi-react/static/media/img5.005ef6648860b053814d.jpg",
@@ -29,11 +29,11 @@
     "static/media/team6.jpg": "/ilhamdwi-react/static/media/team6.51e55dc38b7ce790b9b8.jpg",
     "index.html": "/ilhamdwi-react/index.html",
     "main.3c9927ec.css.map": "/ilhamdwi-react/static/css/main.3c9927ec.css.map",
-    "main.4da02ac4.js.map": "/ilhamdwi-react/static/js/main.4da02ac4.js.map",
+    "main.7b2578bc.js.map": "/ilhamdwi-react/static/js/main.7b2578bc.js.map",
     "453.fc922487.chunk.js.map": "/ilhamdwi-react/static/js/453.fc922487.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c9927ec.css",
-    "static/js/main.4da02ac4.js"
+    "static/js/main.7b2578bc.js"
   ]
 }
